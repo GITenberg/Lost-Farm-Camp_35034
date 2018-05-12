@@ -1,0 +1,38 @@
+_repo: Lost-Farm-Camp_35034
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cue, Harold James
+    birthdate: 1887
+    deathdate: 1961
+    gutenberg_agent_id: '36428'
+    url: http://www.gutenberg.org/2009/agents/36428
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Knibbs, Henry Herbert
+    aliases:
+    - Knibbs, H. H. (Henry Herbert)
+    - Knibbs, Harry Herbert
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '4257'
+    url: http://www.gutenberg.org/2009/agents/4257
+description: ''
+gutenberg_issued: '2011-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Logging -- Fiction'
+- !lcsh 'Maine -- Fiction'
+title: Lost Farm Camp
+url: http://www.gutenberg.org/ebooks/35034
